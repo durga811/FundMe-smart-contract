@@ -1,4 +1,4 @@
-# This is a crowd funding smart-contract
+# This is a Crowdfunding smart-contract
 
 This project demonstrates an basic Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
 
